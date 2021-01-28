@@ -11,4 +11,4 @@ Example image:
 ![alt text](/assets/images/Screenshot_2.png)
 
 Website link:
-https://ejbrownlf.github.io/Daily-Planner-hw5/
+https://ejbrownlf.github.io/Daily-Planner/
